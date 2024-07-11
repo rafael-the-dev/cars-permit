@@ -1,0 +1,9 @@
+
+node_modules
+
+/js
+/css
+/src
+
+/index.html
+/tailwind.config.js

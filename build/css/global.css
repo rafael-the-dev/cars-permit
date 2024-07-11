@@ -1,0 +1,1 @@
+.wrapper { padding-left: 5%; padding-right: 5%; } .text-small { font-size: .93rem; } th, td { border: 1px solid #ccc; } @media screen and (width >= 640px) { .wrapper { margin: 0 auto; max-width: 90vw; } .xs-text { font-size: .93rem !important; } } @media screen and (width >= 950px) { .wrapper { max-width: 70vw; } }
